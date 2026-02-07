@@ -29,7 +29,7 @@
         <li>Simple Business Landing Page (Demo)</li>
     </ul>
 
-    <h2>Contact</h2>
+    <h2>Contact: 0710528560</h2>
     <p>Email: maggiemm@email.com</p>
 </body>
 </html>
